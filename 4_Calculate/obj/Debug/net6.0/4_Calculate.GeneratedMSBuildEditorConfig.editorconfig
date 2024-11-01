@@ -8,37 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _4_Calculate
 build_property.RootNamespace = _4_Calculate
-build_property.ProjectDir = D:\Берля\4_Calculate\4_Calculate\
+build_property.ProjectDir = E:\4_Calculator\4_Calculate\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Берля\4_Calculate\4_Calculate
+build_property.MSBuildProjectDirectory = E:\4_Calculator\4_Calculate
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Берля/4_Calculate/4_Calculate/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[E:/4_Calculator/4_Calculate/Views/Calculator/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsY3VsYXRvclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Берля/4_Calculate/4_Calculate/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[E:/4_Calculator/4_Calculate/Views/Calculator/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsY3VsYXRvclxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Берля/4_Calculate/4_Calculate/Views/Shared/Error.cshtml]
+[E:/4_Calculator/4_Calculate/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Берля/4_Calculate/4_Calculate/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/4_Calculator/4_Calculate/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Берля/4_Calculate/4_Calculate/Views/_ViewImports.cshtml]
+[E:/4_Calculator/4_Calculate/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Берля/4_Calculate/4_Calculate/Views/_ViewStart.cshtml]
+[E:/4_Calculator/4_Calculate/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Берля/4_Calculate/4_Calculate/Views/Shared/_Layout.cshtml]
+[E:/4_Calculator/4_Calculate/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-xjs9bibk3n
