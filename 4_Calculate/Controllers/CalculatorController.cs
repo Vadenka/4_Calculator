@@ -1,4 +1,5 @@
 ﻿using Calculator.Data;
+using Microsoft.AspNetCore.Components.Forms;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Calculator.Controllers
@@ -47,7 +48,7 @@ namespace Calculator.Controllers
             dataInputVariant.Operand_2 = num2.ToString();
             dataInputVariant.Type_operation = operation.ToString();
             dataInputVariant.Result = result.ToString();
-            
+
             _context.DataInputVariants.Add(dataInputVariant);
             _context.SaveChanges();
 
