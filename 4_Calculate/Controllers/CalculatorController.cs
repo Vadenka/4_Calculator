@@ -24,8 +24,8 @@ namespace Calculator.Controllers
         public IActionResult Index()
         {
             var data = _context.DataInputVariants.OrderByDescending(x => x.ID_DataInputVariant).ToList();
-            ViewBag.Data = data;
-            return View(data);
+            ViewBag.Data = data; //Передача данных в ViewBag
+            return View(); //Возврат представления без передачи данных напрямую
         }
 
         /// <summary>
@@ -85,7 +85,7 @@ namespace Calculator.Controllers
         private async Task SendDataToKafka(DataInputVariant dataInputVariant)
         {
             var json = JsonSerializer.Serialize(dataInputVariant);
-            await _producer.ProduceAsync("Yakimov", new Message<Null, string> { Value = json });
+            await _producer.ProduceAsync("Berlia", new Message<Null, string> { Value = json });
         }
     }
 }
