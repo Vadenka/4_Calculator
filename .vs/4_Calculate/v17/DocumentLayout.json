@@ -11,8 +11,8 @@
       "RelativeMoniker": "D:0:0:{7EFAA411-1236-4D0E-9826-D909EC5E8297}|4_Calculate\\4_Calculate.csproj|solutionrelative:4_calculate\\views\\calculator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EFAA411-1236-4D0E-9826-D909EC5E8297}|4_Calculate\\4_Calculate.csproj|c:\\\u0432\u043B\u0430\u0434\\\u0443\u0440\u0444\u0443\\\u043B\u0430\u0432\u0440\u043E\u0432 \u0432.\u0432\\\u043E\u0441\u043D\u043E\u0432\u044B \u043C\u0435\u0442\u043E\u0434\u043E\u043B\u043E\u0433\u0438\u0438 development operation (\u043B\u0430\u0432\u0440\u043E\u0432)\\4_calculator\\4_calculate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EFAA411-1236-4D0E-9826-D909EC5E8297}|4_Calculate\\4_Calculate.csproj|solutionrelative:4_calculate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7EFAA411-1236-4D0E-9826-D909EC5E8297}|4_Calculate\\4_Calculate.csproj|c:\\\u0432\u043B\u0430\u0434\\\u0443\u0440\u0444\u0443\\\u043B\u0430\u0432\u0440\u043E\u0432 \u0432.\u0432\\\u043E\u0441\u043D\u043E\u0432\u044B \u043C\u0435\u0442\u043E\u0434\u043E\u043B\u043E\u0433\u0438\u0438 development operation (\u043B\u0430\u0432\u0440\u043E\u0432)\\4_calculator\\4_calculate\\migrations\\calculatorcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFAA411-1236-4D0E-9826-D909EC5E8297}|4_Calculate\\4_Calculate.csproj|solutionrelative:4_calculate\\migrations\\calculatorcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7EFAA411-1236-4D0E-9826-D909EC5E8297}|4_Calculate\\4_Calculate.csproj|c:\\\u0432\u043B\u0430\u0434\\\u0443\u0440\u0444\u0443\\\u043B\u0430\u0432\u0440\u043E\u0432 \u0432.\u0432\\\u043E\u0441\u043D\u043E\u0432\u044B \u043C\u0435\u0442\u043E\u0434\u043E\u043B\u043E\u0433\u0438\u0438 development operation (\u043B\u0430\u0432\u0440\u043E\u0432)\\4_calculator\\4_calculate\\services\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,28 +58,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\\u0412\u043B\u0430\u0434\\\u0423\u0440\u0424\u0423\\\u041B\u0430\u0432\u0440\u043E\u0432 \u0412.\u0412\\\u041E\u0441\u043D\u043E\u0432\u044B \u043C\u0435\u0442\u043E\u0434\u043E\u043B\u043E\u0433\u0438\u0438 Development Operation (\u041B\u0430\u0432\u0440\u043E\u0432)\\4_Calculator\\4_Calculate\\Views\\Calculator\\Index.cshtml",
-              "RelativeDocumentMoniker": "4_Calculate\\Views\\Calculator\\Index.cshtml",
-              "ToolTip": "C:\\\u0412\u043B\u0430\u0434\\\u0423\u0440\u0424\u0423\\\u041B\u0430\u0432\u0440\u043E\u0432 \u0412.\u0412\\\u041E\u0441\u043D\u043E\u0432\u044B \u043C\u0435\u0442\u043E\u0434\u043E\u043B\u043E\u0433\u0438\u0438 Development Operation (\u041B\u0430\u0432\u0440\u043E\u0432)\\4_Calculator\\4_Calculate\\Views\\Calculator\\Index.cshtml",
-              "RelativeToolTip": "4_Calculate\\Views\\Calculator\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T09:42:30.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CalculatorController.cs",
               "DocumentMoniker": "C:\\\u0412\u043B\u0430\u0434\\\u0423\u0440\u0424\u0423\\\u041B\u0430\u0432\u0440\u043E\u0432 \u0412.\u0412\\\u041E\u0441\u043D\u043E\u0432\u044B \u043C\u0435\u0442\u043E\u0434\u043E\u043B\u043E\u0433\u0438\u0438 Development Operation (\u041B\u0430\u0432\u0440\u043E\u0432)\\4_Calculator\\4_Calculate\\Controllers\\CalculatorController.cs",
               "RelativeDocumentMoniker": "4_Calculate\\Controllers\\CalculatorController.cs",
               "ToolTip": "C:\\\u0412\u043B\u0430\u0434\\\u0423\u0440\u0424\u0423\\\u041B\u0430\u0432\u0440\u043E\u0432 \u0412.\u0412\\\u041E\u0441\u043D\u043E\u0432\u044B \u043C\u0435\u0442\u043E\u0434\u043E\u043B\u043E\u0433\u0438\u0438 Development Operation (\u041B\u0430\u0432\u0440\u043E\u0432)\\4_Calculator\\4_Calculate\\Controllers\\CalculatorController.cs",
               "RelativeToolTip": "4_Calculate\\Controllers\\CalculatorController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAABsAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T08:30:02.978Z",
+              "WhenOpened": "2024-11-26T17:46:31.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\\u0412\u043B\u0430\u0434\\\u0423\u0440\u0424\u0423\\\u041B\u0430\u0432\u0440\u043E\u0432 \u0412.\u0412\\\u041E\u0441\u043D\u043E\u0432\u044B \u043C\u0435\u0442\u043E\u0434\u043E\u043B\u043E\u0433\u0438\u0438 Development Operation (\u041B\u0430\u0432\u0440\u043E\u0432)\\4_Calculator\\4_Calculate\\Migrations\\CalculatorContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "4_Calculate\\Migrations\\CalculatorContextModelSnapshot.cs",
+              "ToolTip": "C:\\\u0412\u043B\u0430\u0434\\\u0423\u0440\u0424\u0423\\\u041B\u0430\u0432\u0440\u043E\u0432 \u0412.\u0412\\\u041E\u0441\u043D\u043E\u0432\u044B \u043C\u0435\u0442\u043E\u0434\u043E\u043B\u043E\u0433\u0438\u0438 Development Operation (\u041B\u0430\u0432\u0440\u043E\u0432)\\4_Calculator\\4_Calculate\\Migrations\\CalculatorContextModelSnapshot.cs",
+              "RelativeToolTip": "4_Calculate\\Migrations\\CalculatorContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:13:50.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\\u0412\u043B\u0430\u0434\\\u0423\u0440\u0424\u0423\\\u041B\u0430\u0432\u0440\u043E\u0432 \u0412.\u0412\\\u041E\u0441\u043D\u043E\u0432\u044B \u043C\u0435\u0442\u043E\u0434\u043E\u043B\u043E\u0433\u0438\u0438 Development Operation (\u041B\u0430\u0432\u0440\u043E\u0432)\\4_Calculator\\4_Calculate\\Views\\Calculator\\Index.cshtml",
+              "RelativeDocumentMoniker": "4_Calculate\\Views\\Calculator\\Index.cshtml",
+              "ToolTip": "C:\\\u0412\u043B\u0430\u0434\\\u0423\u0440\u0424\u0423\\\u041B\u0430\u0432\u0440\u043E\u0432 \u0412.\u0412\\\u041E\u0441\u043D\u043E\u0432\u044B \u043C\u0435\u0442\u043E\u0434\u043E\u043B\u043E\u0433\u0438\u0438 Development Operation (\u041B\u0430\u0432\u0440\u043E\u0432)\\4_Calculator\\4_Calculate\\Views\\Calculator\\Index.cshtml",
+              "RelativeToolTip": "4_Calculate\\Views\\Calculator\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T09:42:30.809Z",
               "EditorCaption": ""
             },
             {
@@ -90,22 +103,9 @@
               "RelativeDocumentMoniker": "4_Calculate\\Services\\KafkaConsumerService.cs",
               "ToolTip": "C:\\\u0412\u043B\u0430\u0434\\\u0423\u0440\u0424\u0423\\\u041B\u0430\u0432\u0440\u043E\u0432 \u0412.\u0412\\\u041E\u0441\u043D\u043E\u0432\u044B \u043C\u0435\u0442\u043E\u0434\u043E\u043B\u043E\u0433\u0438\u0438 Development Operation (\u041B\u0430\u0432\u0440\u043E\u0432)\\4_Calculator\\4_Calculate\\Services\\KafkaConsumerService.cs",
               "RelativeToolTip": "4_Calculate\\Services\\KafkaConsumerService.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T08:28:36.487Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\\u0412\u043B\u0430\u0434\\\u0423\u0440\u0424\u0423\\\u041B\u0430\u0432\u0440\u043E\u0432 \u0412.\u0412\\\u041E\u0441\u043D\u043E\u0432\u044B \u043C\u0435\u0442\u043E\u0434\u043E\u043B\u043E\u0433\u0438\u0438 Development Operation (\u041B\u0430\u0432\u0440\u043E\u0432)\\4_Calculator\\4_Calculate\\Program.cs",
-              "RelativeDocumentMoniker": "4_Calculate\\Program.cs",
-              "ToolTip": "C:\\\u0412\u043B\u0430\u0434\\\u0423\u0440\u0424\u0423\\\u041B\u0430\u0432\u0440\u043E\u0432 \u0412.\u0412\\\u041E\u0441\u043D\u043E\u0432\u044B \u043C\u0435\u0442\u043E\u0434\u043E\u043B\u043E\u0433\u0438\u0438 Development Operation (\u041B\u0430\u0432\u0440\u043E\u0432)\\4_Calculator\\4_Calculate\\Program.cs",
-              "RelativeToolTip": "4_Calculate\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T08:05:37.721Z",
               "EditorCaption": ""
             }
           ]

@@ -66,8 +66,7 @@
               "RelativeToolTip": "4_Calculate\\Views\\Calculator\\Index.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T09:42:30.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T09:42:30.809Z"
             },
             {
               "$type": "Document",
@@ -75,9 +74,9 @@
               "Title": "CalculatorController.cs",
               "DocumentMoniker": "C:\\\u0412\u043B\u0430\u0434\\\u0423\u0440\u0424\u0423\\\u041B\u0430\u0432\u0440\u043E\u0432 \u0412.\u0412\\\u041E\u0441\u043D\u043E\u0432\u044B \u043C\u0435\u0442\u043E\u0434\u043E\u043B\u043E\u0433\u0438\u0438 Development Operation (\u041B\u0430\u0432\u0440\u043E\u0432)\\4_Calculator\\4_Calculate\\Controllers\\CalculatorController.cs",
               "RelativeDocumentMoniker": "4_Calculate\\Controllers\\CalculatorController.cs",
-              "ToolTip": "C:\\\u0412\u043B\u0430\u0434\\\u0423\u0440\u0424\u0423\\\u041B\u0430\u0432\u0440\u043E\u0432 \u0412.\u0412\\\u041E\u0441\u043D\u043E\u0432\u044B \u043C\u0435\u0442\u043E\u0434\u043E\u043B\u043E\u0433\u0438\u0438 Development Operation (\u041B\u0430\u0432\u0440\u043E\u0432)\\4_Calculator\\4_Calculate\\Controllers\\CalculatorController.cs*",
-              "RelativeToolTip": "4_Calculate\\Controllers\\CalculatorController.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAYAAAAAAAAAA==",
+              "ToolTip": "C:\\\u0412\u043B\u0430\u0434\\\u0423\u0440\u0424\u0423\\\u041B\u0430\u0432\u0440\u043E\u0432 \u0412.\u0412\\\u041E\u0441\u043D\u043E\u0432\u044B \u043C\u0435\u0442\u043E\u0434\u043E\u043B\u043E\u0433\u0438\u0438 Development Operation (\u041B\u0430\u0432\u0440\u043E\u0432)\\4_Calculator\\4_Calculate\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "4_Calculate\\Controllers\\CalculatorController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T08:30:02.978Z",
               "EditorCaption": ""
@@ -92,8 +91,7 @@
               "RelativeToolTip": "4_Calculate\\Services\\KafkaConsumerService.cs",
               "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T08:28:36.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T08:28:36.487Z"
             },
             {
               "$type": "Document",
@@ -105,8 +103,7 @@
               "RelativeToolTip": "4_Calculate\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T08:05:37.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T08:05:37.721Z"
             }
           ]
         }
