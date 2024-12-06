@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\4_Calculator\\4_Calculate\\4_Calculate.csproj": {}
+    "C:\\Users\\Vladislav.Berlia\\Documents\\GitHub\\4_Calculator\\4_Calculate\\4_Calculate.csproj": {}
   },
   "projects": {
-    "E:\\4_Calculator\\4_Calculate\\4_Calculate.csproj": {
+    "C:\\Users\\Vladislav.Berlia\\Documents\\GitHub\\4_Calculator\\4_Calculate\\4_Calculate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\4_Calculator\\4_Calculate\\4_Calculate.csproj",
+        "projectUniqueName": "C:\\Users\\Vladislav.Berlia\\Documents\\GitHub\\4_Calculator\\4_Calculate\\4_Calculate.csproj",
         "projectName": "4_Calculate",
-        "projectPath": "E:\\4_Calculator\\4_Calculate\\4_Calculate.csproj",
+        "projectPath": "C:\\Users\\Vladislav.Berlia\\Documents\\GitHub\\4_Calculator\\4_Calculate\\4_Calculate.csproj",
         "packagesPath": "C:\\Users\\Vladislav.Berlia\\.nuget\\packages\\",
-        "outputPath": "E:\\4_Calculator\\4_Calculate\\obj\\",
+        "outputPath": "C:\\Users\\Vladislav.Berlia\\Documents\\GitHub\\4_Calculator\\4_Calculate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vladislav.Berlia\\AppData\\Roaming\\NuGet\\NuGet.Config",

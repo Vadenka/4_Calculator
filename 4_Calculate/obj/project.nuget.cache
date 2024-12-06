@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "05KmsovgUvu2WzJlcJaeL/CayowtLDpY+TFBliPVSdugx2THt9lxzo4HaB/PaOHy1w4FOwa+qqG9gPL0IQXqiA==",
+  "dgSpecHash": "5Mj6hi/YscGM+GiqWjFqwKPoPw+Bz9woRGzdOtUP6HLS1RQhftZkYkKGS0It3UytEiQHWgvY1CdsfFVtpFWRxg==",
   "success": true,
-  "projectFilePath": "E:\\4_Calculator\\4_Calculate\\4_Calculate.csproj",
+  "projectFilePath": "C:\\Users\\Vladislav.Berlia\\Documents\\GitHub\\4_Calculator\\4_Calculate\\4_Calculate.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vladislav.Berlia\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Vladislav.Berlia\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.21\\microsoft.entityframeworkcore.6.0.21.nupkg.sha512",
