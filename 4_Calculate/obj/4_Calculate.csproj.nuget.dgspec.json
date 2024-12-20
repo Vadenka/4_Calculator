@@ -1,32 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vladislav.Berlia\\Documents\\GitHub\\4_Calculator\\4_Calculate\\4_Calculate.csproj": {}
+    "C:\\Влад\\УрФУ\\Лавров В.В\\4_Calculator\\4_Calculate\\4_Calculate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vladislav.Berlia\\Documents\\GitHub\\4_Calculator\\4_Calculate\\4_Calculate.csproj": {
+    "C:\\Влад\\УрФУ\\Лавров В.В\\4_Calculator\\4_Calculate\\4_Calculate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vladislav.Berlia\\Documents\\GitHub\\4_Calculator\\4_Calculate\\4_Calculate.csproj",
+        "projectUniqueName": "C:\\Влад\\УрФУ\\Лавров В.В\\4_Calculator\\4_Calculate\\4_Calculate.csproj",
         "projectName": "4_Calculate",
-        "projectPath": "C:\\Users\\Vladislav.Berlia\\Documents\\GitHub\\4_Calculator\\4_Calculate\\4_Calculate.csproj",
-        "packagesPath": "C:\\Users\\Vladislav.Berlia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vladislav.Berlia\\Documents\\GitHub\\4_Calculator\\4_Calculate\\obj\\",
+        "projectPath": "C:\\Влад\\УрФУ\\Лавров В.В\\4_Calculator\\4_Calculate\\4_Calculate.csproj",
+        "packagesPath": "C:\\Users\\Владислав\\.nuget\\packages\\",
+        "outputPath": "C:\\Влад\\УрФУ\\Лавров В.В\\4_Calculator\\4_Calculate\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Vladislav.Berlia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Владислав\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -34,11 +38,17 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -60,9 +70,25 @@
               "target": "Package",
               "version": "[1.14.0, )"
             },
+            "OpenTelemetry.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[1.10.0, )"
+            },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
               "version": "[6.0.2, )"
+            },
+            "SharpAbp.Abp.OpenTelemetry.Exporter.Prometheus.AspNetCore": {
+              "target": "Package",
+              "version": "[3.5.5, )"
+            },
+            "prometheus-net": {
+              "target": "Package",
+              "version": "[8.2.1, )"
+            },
+            "prometheus-net.AspNetCore": {
+              "target": "Package",
+              "version": "[8.2.1, )"
             }
           },
           "imports": [
@@ -71,7 +97,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -83,7 +110,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

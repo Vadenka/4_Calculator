@@ -6,4 +6,4 @@ services:
     hostname: app
     build: ./
     ports:
-      - "0.0.0.0:5204:5004"
+      - "0.0.0.0:5104:5004"
